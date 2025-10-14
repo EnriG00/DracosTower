@@ -1,0 +1,19 @@
+{
+    "_comment": "JSON holding (module_name,class_name) pair for each actor ID",
+    "0"  : ["fire_skull", "FireSkull"],
+    "1"  : ["laser_statue", "LaserStatue"],
+    "2"  : ["bat", "Bat"],
+    "3"  : ["trap", "Trap"],
+    "4"  : ["ground_switch", "GroundSwitch"],
+    "5"  : ["item", "BombItem"],
+    "6"  : ["item", "ArrowItem"],
+    "7"  : ["item", "SwordItem"],
+    "8"  : ["item", "SpeedItem"],
+    "9"  : ["item", "HeartItem"],
+    "10" : ["item", "KeyItem"],
+    "11" : ["chain_soldier", "ChainSoldier"],
+    "12" : ["bomb_enemy", "BombEnemy"],
+    "13" : ["floor_warp", "FloorWarp"],
+    "14" : ["snake", "Snake"],
+    "15" : ["mole", "Mole"]
+}

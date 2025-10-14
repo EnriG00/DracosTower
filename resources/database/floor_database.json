@@ -1,0 +1,16 @@
+{
+    "floors" : [
+        {
+            "tileset" : "floor1.json",
+            "room_count" : 12
+        },
+        {
+            "tileset" : "floor2.json",
+            "room_count" : 12
+        },
+        {
+            "tileset" : "floor3.json",
+            "room_count" : 12
+        }
+    ]
+}

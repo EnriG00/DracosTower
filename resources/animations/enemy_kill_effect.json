@@ -1,0 +1,14 @@
+{
+    "frame_count": 24,
+    "sprite_size": [32,32],
+    "default_key" : "DEFAULT",
+    "loop" : false,
+    "rects": {
+        "DEFAULT" : {
+            "0":  [0,0],
+            "6":  [1,0],
+            "12": [2,0],
+            "18": [3,0]
+        }
+    }
+}

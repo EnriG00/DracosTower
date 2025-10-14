@@ -1,0 +1,20 @@
+{
+    "frame_count": 1,
+    "sprite_size": [52,48],
+    "default_key" : "DOWN",
+    "loop" : true,
+    "rects": {
+        "DOWN" : {
+            "0" : [0,5]
+        },
+        "LEFT" : {
+            "0" : [1,5]
+        },
+        "RIGHT" : {
+            "0" : [2,5]
+        },
+        "UP" : {
+            "0" : [3,5]
+        }
+    }
+}

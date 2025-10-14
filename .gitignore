@@ -1,0 +1,8 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+/resources/images/*.png
+*.wav
+*.mp3

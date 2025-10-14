@@ -1,0 +1,42 @@
+{
+    "_comment": "JSON holding item drop chances (weights/frecuencies) for each enemy",
+
+    "drop_weigths" : {
+        "FireSkull" : {
+            "BombItem"  : 8,
+            "ArrowItem" : 8,
+            "SwordItem" : 1,
+            "SpeedItem" : 1,
+            "HeartItem" : 10
+        },
+        "Bat" : {
+            "BombItem"  : 5,
+            "ArrowItem" : 15,
+            "SwordItem" : 1,
+            "SpeedItem" : 1,
+            "HeartItem" : 10
+        },
+        "ChainSoldier" : {
+            "BombItem"  : 5,
+            "ArrowItem" : 5,
+            "SwordItem" : 1,
+            "SpeedItem" : 1,
+            "HeartItem" : 12
+        },
+        "Snake" : {
+            "BombItem"  : 10,
+            "ArrowItem" : 10,
+            "SwordItem" : 1,
+            "SpeedItem" : 1,
+            "HeartItem" : 12
+        },
+        "Mole" : {
+            "BombItem"  : 10,
+            "ArrowItem" : 8,
+            "SwordItem" : 1,
+            "SpeedItem" : 1,
+            "HeartItem" : 12
+        }
+    }
+
+}
