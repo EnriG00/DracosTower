@@ -6,8 +6,10 @@ Roguelike game with The Legend of Zelda / The Binding of Isaac style, made with 
 - Random pickups (hearts, bombs, arrows).
 - Ability upgrades (speed, health, attack power).
 - 8 different enemies.
+- Minimap.
 
 This project was developed for a game design subject of the Computer Science Degree at University of A Coruña.
 
 [Gameplay video on YouTube](https://youtu.be/VK6KV0CVgUU?si=3Ys6zHVKwWisC0Gb)
+
 ![Screenshot](docs/screenshot.png)
